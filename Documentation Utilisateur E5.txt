@@ -1,0 +1,95 @@
+﻿Documentation Utilisateur pour l'Application de Gestion des Interventions des Techniciens Orange
+________________
+
+
+Table des Matières
+1. Introduction
+2. Connexion à l'Application
+3. Gestion des Techniciens
+   * Ajouter un Technicien
+   * Modifier un Technicien
+   * Supprimer un Technicien
+4. Gestion des Clients
+   * Ajouter un Client
+   * Modifier un Client
+   * Supprimer un Client
+5. Gestion des Produits
+   * Ajouter un Produit
+   * Modifier un Produit
+   * Supprimer un Produit
+6. FAQ
+7. Support Technique
+________________
+
+
+Introduction
+Bienvenue dans l'application de gestion des interventions des techniciens Orange. Cette application vous permet de gérer facilement les techniciens, les clients et les produits associés aux interventions. Ce guide utilisateur vous expliquera comment utiliser les différentes fonctionnalités de l'application.
+________________
+
+
+Connexion à l'Application
+1. Ouvrir l'application : Lancez l'application depuis votre ordinateur ou appareil mobile.
+2. Écran de connexion : Vous verrez un écran de connexion où vous devrez entrer vos identifiants.
+   * Nom d'utilisateur : Entrez votre nom d'utilisateur.
+   * Mot de passe : Entrez votre mot de passe.
+3. Se connecter : Cliquez sur le bouton "Se connecter" pour accéder à l'application.
+________________
+
+
+Gestion des Techniciens
+Ajouter un Technicien
+1. Accéder à la section des techniciens : Dans le menu principal, cliquez sur l’icône "Techniciens".
+2. Ajouter un nouveau technicien : Cliquez sur le bouton "Ajouter un technicien".
+3. Remplir le formulaire : Complétez les champs du formulaire avec les informations du technicien.
+   * Nom du technicien
+   * Prénom du technicien
+   * Spécialité
+   * Date embauche
+4. Enregistrer : Cliquez sur "Valider" pour ajouter le technicien à la base de données.
+Filtrer un Technicien
+1. Accéder à la section de la liste des techniciens
+2. Cliquez sur le bouton “Filtrer” 
+________________
+
+
+Gestion des Clients
+Ajouter un Client
+1. Accéder à la section des clients : Dans le menu principal, cliquez sur l’icône "Clients".
+2. Ajouter un nouveau client : Cliquez sur le bouton "Ajouter un client".
+3. Remplir le formulaire : Complétez les champs du formulaire avec les informations du client.
+   * Prénom client
+   * Nom client
+   * Adresse contact
+   * E-mail contact
+
+
+4. Valider : Cliquez sur "Valider" pour ajouter le client à la base de données.
+Modifier un Client
+1. Accéder à la section des clients : Dans le menu principal, cliquez sur l’onglet "Clients".
+2. Sélectionner un client : Trouvez le client que vous souhaitez modifier et cliquez sur l’icône "Modifier" de la colonne des “Opérations”.
+3. Modifier les informations : Apportez les modifications nécessaires dans le formulaire.
+4. Enregistrer les modifications : Cliquez sur "Valider" pour mettre à jour les informations du client.
+Supprimer un Client
+1. Accéder à la section des clients : Dans le menu principal, cliquez sur "Clients".
+2. Sélectionner un client : Trouvez le client que vous souhaitez supprimer et cliquez sur l’icône "Supprimer".
+ Filtrer un Client
+1. Accéder à la section de la liste des clients
+2. Cliquez sur le bouton “Filtrer”
+________________
+
+
+Gestion des Produits
+Ajouter un Produit
+1. Accéder à la section des produits : Dans le menu principal, cliquez sur "Produits".
+2. Ajouter un nouveau produit : Cliquez sur le bouton "Ajouter un produit".
+3. Remplir le formulaire : Complétez les champs du formulaire avec les informations du produit.
+   * Désignation
+   * Prix Achat
+   * Date Achat
+   * Catégories
+   * Client
+4. Enregistrer : Cliquez sur "Valider" pour ajouter le produit à la base de données.
+Filtrer un Produit
+3. Accéder à la section de la liste des produits
+4. Cliquez sur le bouton “Filtrer”
+________________
